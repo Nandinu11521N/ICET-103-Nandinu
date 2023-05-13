@@ -1,0 +1,17 @@
+#btn {padding-left: 15px;
+    padding-right: 15px;
+     border: 3px solid blue;
+      border-color: blue;
+       border-radius: 100px;
+        background-color: aqua;}
+
+  .gta{
+           width: 98.4vw;
+           height:20px;
+           background-color: chocolate;
+           position: sticky;
+           left: 5px;
+           right: 1px;
+           bottom: 640px;
+
+        }
